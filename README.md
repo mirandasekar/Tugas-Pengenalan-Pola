@@ -13,3 +13,6 @@
 - Melakukan pengerjaan program.
 ### **2. Miranda Sekar Ayu Shaumi (21102189):**
 - Melakukan pengerjaan program.
+
+## Dataset 
+https://drive.google.com/drive/folders/11vuBxsFRFB1XdJui7LAZxSAVvDqKw2Wr
